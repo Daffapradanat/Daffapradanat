@@ -1,63 +1,56 @@
-## Hi there 👋
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Halo, Saya Daffa Pradana!
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Daffa+Pradana's+GitHub!;Exploring+the+realms+of+code...;Crafting+digital+experiences...&center=true&size=25&color=fe428e">
+</div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
+</p>
+
+<h2 align="center">🚀 Aspiring Fullstack & Game Developer 🎮</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,unity,c#" />
+  </a>
+</p>
+
+<details>
+<summary>🌟 About Me</summary>
+<br>
+  
+- 🌱 Currently deep diving into Fullstack Web Development
+- 🎯 Aiming to create immersive gaming experiences
+- 💡 Always excited to learn new technologies
+- 🌈 Turning caffeine into code since [your start year]
+</details>
+
+<details>
+<summary>🔥 My GitHub Stats</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffapradana&show_icons=true&theme=radical" alt="Daffa's GitHub stats">
+</p>
+</details>
+
+<details>
+<summary>🏆 My Coding Journey</summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daffapradana&theme=darkhub&column=7" alt="trophy">
+</p>
+</details>
+
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-Daffa%20Pradana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/-@YourTwitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=daffapradana&color=blueviolet" alt="Profile views"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daffapradana&style=flat-square&color=blue" alt=""/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
-
----
-
-### :man_technologist: Tentang Saya :
-
-Saya seorang Beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> yang sedang mendalami:
-
-- :globe_with_meridians: Fullstack Web Development
-- :video_game: Game Development
-
----
-
-### :hammer_and_wrench: Bahasa dan Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: Statistik Saya :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daffapradana&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=daffapradana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
-</div>
-<!--
-**Daffapradanat/Daffapradanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
