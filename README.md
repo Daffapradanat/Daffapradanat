@@ -1,49 +1,33 @@
 <h1 align="center">Hi 👋, I'm Daffa Pradana Tsaqif</h1>
-<h3 align="center">A passionate Backend Developer & Game Developer from Indonesia</h3>
+<h3 align="center">A passionate Backend & Game Developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4000&pause=1000&color=DCD7C9&center=true&vCenter=true&width=600&lines=DAFFA+PRADANA+TSAQIF;Web+%26+Game+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4000&pause=1000&color=DCD7C9&center=true&vCenter=true&width=600&lines=Web+%26+Game+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daffapradanat&label=Profile%20views&color=0e75b6&style=flat" alt="daffapradanat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffapradanat" alt="daffapradanat" /></a> </p>
-
-- 🔭 I’m currently Study on **SMKN 12 SURABAYA**
-
-- 🌱 I’m currently learning **Deep learning for Fullstack Developer**
-
-- 👯 I’m looking to collaborate on **Light House Studio**
-
-- 💬 Ask me about **If you have any questions about UI/UX design or game development, feel free to ask!**
-
-- ⚡ Fun fact **Sometimes, the most challenging ideas lead to the most innovative solutions. If you ever want to brainstorm or work through one of your "impossible" ideas**
-
-<div align="center">
-  <img src="https://i.imgur.com/your-custom-gif.gif" width="500" alt="Custom Daffa Pradana Tsaqif GIF">
-</div>
-
-<h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daffapradanat&label=Profile%20views&color=0e75b6&style=flat" alt="daffapradanat" />
 </p>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3F4E4F?style=for-the-badge&logo=linkedin&logoColor=DCD7C9)](https://www.linkedin.com/in/your-linkedin/)
-  [![Twitter](https://img.shields.io/badge/Twitter-3F4E4F?style=for-the-badge&logo=twitter&logoColor=DCD7C9)](https://twitter.com/your-twitter)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-3F4E4F?style=for-the-badge&logo=todoist&logoColor=DCD7C9)](https://your-portfolio-url.com)
-</div>
+## 🚀 About Me
+
+- 🎓 Currently studying at **SMKN 12 SURABAYA**
+- 🌱 Learning **Deep learning for Fullstack Development**
+- 👯 Looking to collaborate on projects with **Light House Studio**
+- 💬 Ask me about **UI/UX design or game development**
+- ⚡ Fun fact: I believe the most challenging ideas often lead to the most innovative solutions!
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-  ![PHP](https://img.shields.io/badge/-PHP-2C3639?style=for-the-badge&logo=php&logoColor=DCD7C9)
-  ![HTML5](https://img.shields.io/badge/-HTML5-2C3639?style=for-the-badge&logo=html5&logoColor=DCD7C9)
-  ![CSS3](https://img.shields.io/badge/-CSS3-2C3639?style=for-the-badge&logo=css3&logoColor=DCD7C9)
-  ![SCSS](https://img.shields.io/badge/-SCSS-2C3639?style=for-the-badge&logo=sass&logoColor=DCD7C9)
-  ![Unity](https://img.shields.io/badge/-Unity-2C3639?style=for-the-badge&logo=unity&logoColor=DCD7C9)
-  ![C#](https://img.shields.io/badge/-C%23-2C3639?style=for-the-badge&logo=c-sharp&logoColor=DCD7C9)
-  ![Laravel](https://img.shields.io/badge/-Laravel-2C3639?style=for-the-badge&logo=laravel&logoColor=DCD7C9)
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-2C3639?style=for-the-badge&logo=php&logoColor=DCD7C9" alt="PHP">
+  <img src="https://img.shields.io/badge/-HTML5-2C3639?style=for-the-badge&logo=html5&logoColor=DCD7C9" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-2C3639?style=for-the-badge&logo=css3&logoColor=DCD7C9" alt="CSS3">
+  <img src="https://img.shields.io/badge/-SCSS-2C3639?style=for-the-badge&logo=sass&logoColor=DCD7C9" alt="SCSS">
+  <img src="https://img.shields.io/badge/-Unity-2C3639?style=for-the-badge&logo=unity&logoColor=DCD7C9" alt="Unity">
+  <img src="https://img.shields.io/badge/-C%23-2C3639?style=for-the-badge&logo=c-sharp&logoColor=DCD7C9" alt="C#">
+  <img src="https://img.shields.io/badge/-Laravel-2C3639?style=for-the-badge&logo=laravel&logoColor=DCD7C9" alt="Laravel">
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
