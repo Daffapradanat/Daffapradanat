@@ -1,101 +1,87 @@
-<h1 align="center">Hi 👋, I'm Daffa Pradana Tsaqif</h1>
-<h3 align="center">A passionate Backend & Game Developer from Indonesia</h3>
+<div align="center">
+  <img src="https://your-header-image-url.com" alt="Header" width="100%">
+</div>
+
+<h1 align="center">Daffa Pradana Tsaqif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4000&pause=1000&color=DCD7C9&center=true&vCenter=true&width=600&lines=Web+%26+Game+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+<!--   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a> -->
+<!--   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+<!--   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daffapradanat&label=Profile%20views&color=0e75b6&style=flat" alt="daffapradanat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Backend+Developer;Game+Developer;UI%2FUX+Enthusiast;Fullstack+Learner" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
-- 🎓 Currently studying at **SMKN 12 SURABAYA**
-- 🌱 Learning **Deep learning for Fullstack Development**
-- 👯 Looking to collaborate on projects with **Light House Studio**
-- 💬 Ask me about **UI/UX design or game development**
-- ⚡ Fun fact: I believe the most challenging ideas often lead to the most innovative solutions!
+<img align="right" src="https://your-animated-gif-url.com" width="300" alt="coding">
 
-## 🛠️ Technologies & Tools
+- 🎓 Studying at **SMKN 12 SURABAYA**
+- 🌱 Exploring **Deep Learning for Fullstack Development**
+- 👯 Collaborating with **Light House Studio**
+- 💡 Passionate about turning challenging ideas into innovative solutions
+- 🎮 Ask me about **UI/UX design or game development**
+
+<details>
+<summary>🌟 Fun Fact</summary>
+<br>
+Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's brainstorm your "impossible" concepts!
+</details>
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-2C3639?style=for-the-badge&logo=php&logoColor=DCD7C9" alt="PHP">
-  <img src="https://img.shields.io/badge/-HTML5-2C3639?style=for-the-badge&logo=html5&logoColor=DCD7C9" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-2C3639?style=for-the-badge&logo=css3&logoColor=DCD7C9" alt="CSS3">
-  <img src="https://img.shields.io/badge/-SCSS-2C3639?style=for-the-badge&logo=sass&logoColor=DCD7C9" alt="SCSS">
-  <img src="https://img.shields.io/badge/-Unity-2C3639?style=for-the-badge&logo=unity&logoColor=DCD7C9" alt="Unity">
-  <img src="https://img.shields.io/badge/-C%23-2C3639?style=for-the-badge&logo=c-sharp&logoColor=DCD7C9" alt="C#">
-  <img src="https://img.shields.io/badge/-Laravel-2C3639?style=for-the-badge&logo=laravel&logoColor=DCD7C9" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
+<details>
+<summary>📚 More Skills</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+</details>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daffapradanat&show_icons=true&theme=radical" alt="Daffa's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffapradanat&layout=compact&theme=radical" alt="Daffa's Top Languages"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffapradanat&show_icons=true&locale=en&layout=compact" alt="daffapradanat" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffapradanat&theme=radical" alt="GitHub Streak"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daffapradanat&show_icons=true&locale=en" alt="daffapradanat" /></p>
+## 🏆 GitHub Trophies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daffapradanat&" alt="daffapradanat" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daffapradanat&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+## 🎯 Current Focus
+
+I'm currently working on enhancing my skills in:
+
+1. **Advanced Laravel Techniques**
+2. **Unity 3D Game Development**
+3. **AI Integration in Web Applications**
 
 <div align="center">
-  ![GitHub Snake](https://raw.githubusercontent.com/username/github-snake/master/github-snake-dark.svg#gh-dark-mode-only)
+  <img src="https://raw.githubusercontent.com/daffapradanat/daffapradanat/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
 </div>
+
+<h3 align="center">Thanks for visiting! Let's connect and create something amazing together! 🚀</h3>
