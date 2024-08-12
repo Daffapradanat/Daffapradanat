@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=DAFFA+PRADANA+TSAQIF;Web+%26+Game+Developer;Level+Up+Your+Digital+World!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4000&pause=1000&color=DCD7C9&center=true&vCenter=true&width=600&lines=DAFFA+PRADANA+TSAQIF;Web+%26+Game+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -8,66 +8,58 @@
 
 <div align="center">
   
-  [![GitHub Game of Life](https://github4life.herokuapp.com/Daffapradanat.gif?z=6)](https://github.com/Daffapradanat)
+  [![GitHub followers](https://img.shields.io/github/followers/Daffapradanat?style=for-the-badge&logo=github&logoColor=DCD7C9&labelColor=2C3639&color=3F4E4F)](https://github.com/Daffapradanat)
+  [![GitHub Stars](https://img.shields.io/github/stars/Daffapradanat?style=for-the-badge&logo=github&logoColor=DCD7C9&labelColor=2C3639&color=A27B5C)](https://github.com/Daffapradanat)
 
 </div>
 
-## 🎮 Player Stats
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+  ![PHP](https://img.shields.io/badge/-PHP-2C3639?style=for-the-badge&logo=php&logoColor=DCD7C9)
+  ![HTML5](https://img.shields.io/badge/-HTML5-2C3639?style=for-the-badge&logo=html5&logoColor=DCD7C9)
+  ![CSS3](https://img.shields.io/badge/-CSS3-2C3639?style=for-the-badge&logo=css3&logoColor=DCD7C9)
+  ![SCSS](https://img.shields.io/badge/-SCSS-2C3639?style=for-the-badge&logo=sass&logoColor=DCD7C9)
+  ![Unity](https://img.shields.io/badge/-Unity-2C3639?style=for-the-badge&logo=unity&logoColor=DCD7C9)
+  ![C#](https://img.shields.io/badge/-C%23-2C3639?style=for-the-badge&logo=c-sharp&logoColor=DCD7C9)
+  ![Laravel](https://img.shields.io/badge/-Laravel-2C3639?style=for-the-badge&logo=laravel&logoColor=DCD7C9)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daffapradanat&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=2C3639&title_color=DCD7C9&text_color=A27B5C&icon_color=3F4E4F"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&langs_count=8&theme=dark&bg_color=2C3639&title_color=DCD7C9&text_color=A27B5C"/>
+</div>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/Daffapradanat?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00FF00)](https://github.com/Daffapradanat)
-  [![GitHub Stars](https://img.shields.io/github/stars/Daffapradanat?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=FFFF00)](https://github.com/Daffapradanat)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Daffapradanat&theme=nord&column=7&bg_color=2C3639&title_color=DCD7C9&text_color=A27B5C&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 🛠️ Equipped Skills
+## 📈 Contribution Graph
 
 <div align="center">
-
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffapradanat&bg_color=2C3639&color=DCD7C9&line=A27B5C&point=3F4E4F&area=true&hide_border=true" alt="Daffa Pradana's GitHub Activity Graph">
 </div>
 
-## 📊 Achievement Board
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daffapradanat&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</div>
-
-## 🏆 Epic Loot (Trophies)
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Daffapradanat&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Quest Log (Contribution Graph)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffapradanat&theme=chartreuse-dark" alt="Daffa Pradana's GitHub Activity Graph">
-</div>
-
-## 🌐 Multiplayer Zone
+## 🔗 Connect with me
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/Join_Party_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-  [![Twitter](https://img.shields.io/badge/Send_Signal_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-  [![Portfolio](https://img.shields.io/badge/Visit_My_HQ_(Portfolio)-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3F4E4F?style=for-the-badge&logo=linkedin&logoColor=DCD7C9)](https://www.linkedin.com/in/your-linkedin/)
+  [![Twitter](https://img.shields.io/badge/Twitter-3F4E4F?style=for-the-badge&logo=twitter&logoColor=DCD7C9)](https://twitter.com/your-twitter)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-3F4E4F?style=for-the-badge&logo=todoist&logoColor=DCD7C9)](https://your-portfolio-url.com)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daffapradanat&style=for-the-badge&color=00FF00" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Daffapradanat&style=for-the-badge&color=A27B5C" alt="Profile views"/>
 </div>
 
 ---
