@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=DAFFA+PRADANA;Web+%26+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=DAFFA+PRADANA+TSAQIF;Web+%26+Game+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/your-custom-gif.gif" width="500" alt="Custom Daffa Pradana GIF">
+  <img src="https://i.imgur.com/your-custom-gif.gif" width="500" alt="Custom Daffa Pradana Tsaqif GIF">
 </p>
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Daffapradanat)
-  [![GitHub Stars](https://img.shields.io/github/stars/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Daffapradanat)
+  [![GitHub followers](https://img.shields.io/github/followers/Daffapradanat?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Daffapradanat)
+  [![GitHub Stars](https://img.shields.io/github/stars/Daffapradanat?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Daffapradanat)
 
 </div>
 
