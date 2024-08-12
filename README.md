@@ -19,11 +19,9 @@
 - 💡 Passionate about turning challenging ideas into innovative solutions
 - 🎮 Ask me about UI/UX design or game development
 
-<details>
 <summary>🌟 Fun Fact</summary>
 <br>
 Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's brainstorm your "impossible" concepts!
-</details>
 
 ## 🛠️ Tech Stack
 <p align="center">
