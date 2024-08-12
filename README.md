@@ -70,7 +70,7 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daffapradanat/Daffapradanat/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ## 🎯 Current Focus
