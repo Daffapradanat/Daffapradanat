@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://your-header-image-url.com" alt="Header" width="100%">
-</div>
-
 <h1 align="center">Daffa Pradana Tsaqif</h1>
 
 <p align="center">
-<!--   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a> -->
-<!--   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
-<!--   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
+<!--   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
 </p>
 
 <p align="center">
@@ -15,8 +11,6 @@
 </p>
 
 ## 🚀 About Me
-
-<img align="right" src="https://your-animated-gif-url.com" width="300" alt="coding">
 
 - 🎓 Studying at **SMKN 12 SURABAYA**
 - 🌱 Exploring **Deep Learning for Fullstack Development**
@@ -79,9 +73,5 @@ I'm currently working on enhancing my skills in:
 1. **Advanced Laravel Techniques**
 2. **Unity 3D Game Development**
 3. **AI Integration in Web Applications**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Daffapradanat/Daffapradanat/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
-</div>
 
 <h3 align="center">Thanks for visiting! Let's connect and create something amazing together! 🚀</h3>
