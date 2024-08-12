@@ -8,8 +8,8 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/daffapradana)
-  [![GitHub Stars](https://img.shields.io/github/stars/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/daffapradana)
+  [![GitHub followers](https://img.shields.io/github/followers/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Daffapradanat)
+  [![GitHub Stars](https://img.shields.io/github/stars/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Daffapradanat)
 
 </div>
 
@@ -30,22 +30,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffapradana&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffapradana&layout=compact&langs_count=8&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daffapradanat&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&langs_count=8&theme=graywhite"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=daffapradana&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Daffapradanat&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffapradana&theme=react-dark" alt="Daffa Pradana's GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffapradanat&theme=react-dark" alt="Daffa Pradana's GitHub Activity Graph">
 </div>
 
 ## 🔗 Connect with me
