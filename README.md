@@ -81,7 +81,7 @@ I'm currently working on enhancing my skills in:
 3. **AI Integration in Web Applications**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daffapradanat/daffapradanat/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
+  <img src="https://raw.githubusercontent.com/Daffapradanat/Daffapradanat/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
 </div>
 
 <h3 align="center">Thanks for visiting! Let's connect and create something amazing together! 🚀</h3>
