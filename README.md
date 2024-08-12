@@ -1,56 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Daffa+Pradana's+GitHub!;Crafting+web+and+game+experiences...;From+PHP+to+Unity,+code+is+my+canvas...&center=true&size=25&color=fe428e">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=DAFFA+PRADANA;Web+%26+Game+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
+  <img src="https://i.imgur.com/your-custom-gif.gif" width="500" alt="Custom Daffa Pradana GIF">
 </p>
 
-<h2 align="center">🚀 Fullstack Web & Game Developer in the Making 🎮</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,scss,unity,cs,laravel" />
-  </a>
-</p>
-
-<details>
-<summary>🌟 About Me</summary>
-<br>
+<div align="center">
   
-- 🌱 Diving deep into Fullstack Web Development with PHP and Laravel
-- 🎯 Crafting immersive gaming experiences with Unity and C#
-- 💡 Always excited to learn new technologies and frameworks
-- 🌈 Turning caffeine into code, one line at a time
-</details>
+  [![GitHub followers](https://img.shields.io/github/followers/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/daffapradana)
+  [![GitHub Stars](https://img.shields.io/github/stars/daffapradana?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/daffapradana)
 
-<details>
-<summary>🔥 My GitHub Stats</summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffapradana&show_icons=true&theme=radical" alt="Daffa's GitHub stats">
-</p>
-</details>
+</div>
 
-<details>
-<summary>🏆 My Coding Journey</summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daffapradana&theme=darkhub&column=7" alt="trophy">
-</p>
-</details>
-
-<h3 align="center">Let's Connect and Create Something Amazing!</h3>
-<p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-Daffa%20Pradana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/-@YourTwitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+## 🛠️ Technologies & Tools
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=daffapradana&color=blueviolet" alt="Profile views"/>
+
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=black)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=black)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=black)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white&labelColor=black)
+  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white&labelColor=black)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=black)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=black)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffapradana&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffapradana&layout=compact&langs_count=8&theme=graywhite"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=daffapradana&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffapradana&theme=react-dark" alt="Daffa Pradana's GitHub Activity Graph">
+</div>
+
+## 🔗 Connect with me
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://komarev.com/ghpvc/?username=daffapradana&style=for-the-badge&color=grey" alt="Profile views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
