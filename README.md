@@ -75,6 +75,7 @@
 </div>
 
 <style>
+  /* CSS untuk animasi hover */
   img[alt="PHP"]:hover, img[alt="HTML5"]:hover, img[alt="CSS3"]:hover, 
   img[alt="SCSS"]:hover, img[alt="Unity"]:hover, img[alt="C#"]:hover, 
   img[alt="Laravel"]:hover {
