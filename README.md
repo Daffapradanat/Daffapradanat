@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Daffa+Pradana's+GitHub!;Exploring+the+realms+of+code...;Crafting+digital+experiences...&center=true&size=25&color=fe428e">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Daffa+Pradana's+GitHub!;Crafting+web+and+game+experiences...;From+PHP+to+Unity,+code+is+my+canvas...&center=true&size=25&color=fe428e">
 </div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
 </p>
 
-<h2 align="center">🚀 Aspiring Fullstack & Game Developer 🎮</h2>
+<h2 align="center">🚀 Fullstack Web & Game Developer in the Making 🎮</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,unity,c#" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,scss,unity,cs,laravel" />
   </a>
 </p>
 
@@ -18,10 +18,10 @@
 <summary>🌟 About Me</summary>
 <br>
   
-- 🌱 Currently deep diving into Fullstack Web Development
-- 🎯 Aiming to create immersive gaming experiences
-- 💡 Always excited to learn new technologies
-- 🌈 Turning caffeine into code since [your start year]
+- 🌱 Diving deep into Fullstack Web Development with PHP and Laravel
+- 🎯 Crafting immersive gaming experiences with Unity and C#
+- 💡 Always excited to learn new technologies and frameworks
+- 🌈 Turning caffeine into code, one line at a time
 </details>
 
 <details>
@@ -40,7 +40,7 @@
 </p>
 </details>
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">Let's Connect and Create Something Amazing!</h3>
 <p align="center">
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-Daffa%20Pradana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/-@YourTwitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
