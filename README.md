@@ -36,7 +36,6 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
-<details>
 <summary>📚 More Skills</summary>
 <br>
 <p align="center">
@@ -47,7 +46,6 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
-</details>
 
 ## 📊 GitHub Analytics
 <p align="center">
