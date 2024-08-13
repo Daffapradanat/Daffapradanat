@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=DFD3C3&center=true&vCenter=true&width=600&lines=X+Backend+Developer+X;X+Game+Developer+X;X+UI%2FUX+Designer+X;X+Fullstack+Learner+X;XO_OX" alt="Typing SVG animation showing text: X Backend Developer X; X Game Developer X; X UI/UX Designer X; X Fullstack Learner X; XO_OX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=DFD3C3&center=true&vCenter=true&width=600&lines=X+Backend+Developer+X;X+Game+Developer+X;X+UI%2FUX+Designer+X;X+Fullstack+Learner+X;XO_OX" alt="Typing SVG animation showing text:Backend Developer;Game Developer;UI/UX Designer;Fullstack Learner; X O_O X" />
 </p>
 
 ## 🚀 About Me
