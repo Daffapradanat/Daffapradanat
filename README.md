@@ -44,21 +44,21 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daffapradanat&show_icons=true&theme=radical" alt="Daffa's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffapradanat&layout=compact&theme=radical" alt="Daffa's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daffapradanat&show_icons=true&theme=radical" alt="Daffa's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&theme=radical" alt="Daffa's Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffapradanat&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daffapradanat&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daffapradanat&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Daffapradanat&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffapradanat&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffapradanat&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ## 🐍 Contribution Snake
