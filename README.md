@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying at SMKN 12 SURABAYA
+- 🎓 Graduation from SMKN 12 SURABAYA
 - 🌱 Exploring Deep Learning for Fullstack Development
 - 👯 Collaborating with Light House Studio
 - 💡 Passionate about turning challenging ideas into innovative solutions
