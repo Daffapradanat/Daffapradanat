@@ -13,11 +13,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Graduation from SMKN 12 SURABAYA
 - 🌱 Exploring Deep Learning for Fullstack Development
 - 👯 Collaborating with Light House Studio
 - 💡 Passionate about turning challenging ideas into innovative solutions
-- 🎮 Ask me about UI/UX design or game development
 
 <summary>🌟 Fun Fact</summary>
 <br>
