@@ -1,134 +1,213 @@
-# 🎮 Welcome to My Digital Universe! 
+<div align="center">
 
-```
-    ┌─────────────────────────────────────┐
-    │  > Initializing Developer Profile   │
-    │  > Loading Game Assets...           │ 
-    │  > Compiling Dreams into Code...     │
-    │  ✓ Ready Player One!                │
-    └─────────────────────────────────────┘
-```
+# 🎮✨ Welcome to My Code Arcade ✨🎮
 
-## 👾 About This Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=Game+Developer;Web+Wizard;Pixel+Artist;Unity+Master;Laravel+Ninja" alt="Typing SVG" />
 
-Halo! I'm a **Game Maniac** 🕹️ turned **Code Wizard** ✨ who believes that life is just one big sandbox game waiting to be modded!
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-```csharp
-public class Developer : Human
-{
-    public string CurrentMood = "Always Coding";
-    public string[] Roles = { "Game Dev", "Web Dev", "Dream Builder" };
-    public bool IsPassionate = true;
-    
-    public void LiveLife()
-    {
-        while(alive)
-        {
-            CreateAwesomeStuff();
-            PlayGames();
-            Dream.Build().Deploy();
-        }
-    }
+</div>
+
+---
+
+<div align="center">
+
+## 🕹️ **PLAYER PROFILE** 🕹️
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Current Status**
+```javascript
+const developer = {
+    name: "Code Wizard",
+    class: "Full-Stack Game Dev",
+    level: "∞",
+    mood: "Always Creating",
+    status: "Online & Coding",
+    passion: "Building Dreams"
 }
 ```
 
-## 🎯 My Gaming Arsenal
+</td>
+<td align="center" width="50%">
 
-### 🎮 **Game Development Stack**
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-**Current Role:** `Mood-Driven Developer` 🎭
-- 📊 **Strategy Master** - Building complex game mechanics
-- 🎨 **Creative Director** - Crafting immersive experiences  
-- 🔧 **Technical Architect** - Optimizing performance
-- 🎪 **Chaos Creator** - Breaking things beautifully
-
-### 🌐 **Web Development Stack**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Specialization:** Authentication Systems & Public Deployments 🚀
-
-## 🏆 Achievement Unlocked
-
+### 🎮 **Skills Tree**
 ```
-🎮 Game Creator                    ████████████ 100%
-🌐 Web Architect                   ████████████ 100%  
-🔐 Auth System Master              ████████████ 100%
-🚀 Deployment Ninja                ████████████ 100%
-💫 Project Passion                 ████████████ ∞%
+Game Development    ██████████ 95%
+Web Development     ██████████ 90% 
+3D Modeling         ████████░░ 85%
+Pixel Art           ████████░░ 80%
+Problem Solving     ██████████ 99%
 ```
 
-## 🛠️ My Development Philosophy
-
-> *"Every project is a new adventure, every bug is a boss fight, and every successful deployment is a victory dance!"* 💃🕺
-
-### 🎯 What Drives Me:
-- **🔥 The Process > The Product** - I live for the journey of creation
-- **🎲 Mood-Driven Development** - Today I'm a game designer, tomorrow maybe a backend wizard
-- **🌟 From Idea to Reality** - Turning caffeine into code since forever
-- **🚀 Ship It Live** - If it's not deployed, did it really happen?
-
-## 📊 GitHub Stats & Battle Report
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
-## 🎮 Current Quests
-
-```
-📝 Todo List (aka My Side Quest Log):
-├── 🎯 Building an epic Unity game
-├── 🌐 Crafting a Laravel masterpiece  
-├── 🔥 Learning new dev superpowers
-├── 📱 Mobile game experiment
-└── 🚀 World domination (maybe)
-```
-
-## 🤝 Let's Party Up!
-
-Looking for a co-op partner in this grand adventure called development? Let's connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-
-## 💭 Developer Quotes Collection
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-*"The best error message is the one that never shows up."* – Thomas Fuchs  
-
-*"Games are the most elevated form of investigation."* – Albert Einstein
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-**🎮 Game On, Code Strong! 🚀**
+## 🚀 **TECH ARSENAL** 🚀
 
-*Crafted with ❤️, ☕, and a lot of `console.log()` statements*
+### **Game Development Zone**
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+### **Web Development Zone**
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
 ---
 
+<div align="center">
+
+## 💫 **WHAT I CREATE** 💫
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🎮 **Games**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+**Unity Magic**
+- Interactive Experiences
+- Game Mechanics
+- Performance Optimization
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 **Web Apps**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+
+**Laravel Power**
+- Authentication Systems
+- Public Deployments
+- Full-Stack Solutions
+
+</td>
+<td align="center" width="33%">
+
+### 🎨 **Art & Design**
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+
+**Creative Tools**
+- 3D Models in Blender
+- Pixel Art in Aseprite
+- Game Assets
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 **BATTLE STATS** 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=Daffapradanat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffapradanat&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&layout=compact" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daffapradanat&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **CURRENT QUESTS** 🎯
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
+
 ```
-┌─────────────────────────────────────────────┐
-│  Thanks for visiting my digital playground! │
-│  Star ⭐ if you enjoyed the ride!           │
-│  Fork 🍴 if you want to join the adventure! │
-└─────────────────────────────────────────────┘
+🚧 Active Projects:
+┌─────────────────────────────────────────┐
+│ 🎮 Unity Game Project                   │
+│ 🌐 Laravel Web Application              │  
+│ 🎨 Blender 3D Asset Collection          │
+│ 🖼️  Pixel Art Game Sprites              │
+│ 🚀 New Tech Exploration                 │
+└─────────────────────────────────────────┘
 ```
+
+---
+
+<div align="center">
+
+## 💭 **DEVELOPER PHILOSOPHY** 💭
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🔥 **My Mantras**
+- **Process > Product** - Love the journey of creation
+- **Mood-Driven Development** - Every day brings new roles  
+- **Ship It Live** - From localhost to the world
+- **Never Stop Learning** - Always leveling up
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 **LET'S CONNECT** 🤝
+
+<a href="https://github.com/Daffapradanat">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/daffa-pradana-44842a344">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discord.gg/neoleo_">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c33.gif" width="300">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎊 **THANKS FOR VISITING** 🎊
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+
+**⭐ Star my repos if you like what you see!**  
+**🍴 Fork if you want to collaborate!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+*Made with ❤️, ☕, and lots of* `console.log("Hello World!")`
+
+</div
