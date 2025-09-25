@@ -6,10 +6,6 @@
   <a href="https://discord.gg/neoleo_"><img src="https://img.shields.io/badge/Discord-222831?style=for-the-badge&logo=discord&logoColor=DFD0B8" alt="Discord"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Daffapradanat&theme=dark&hide_border=true&background=222831&ring=DFD0B8&fire=948979&currStreakLabel=DFD0B8&sideLabels=393E46&dates=393E46" alt="GitHub Streak"/>
-</p>
-
 ## 🚀 About Me
 
 - 🌱 Exploring Deep Learning for Fullstack Development
