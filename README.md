@@ -1,9 +1,11 @@
 <h1 align="center">Daffa Pradana Tsaqif</h1>
-
 <p align="center">
   <a href="https://github.com/Daffapradanat"><img src="https://img.shields.io/badge/GitHub-222831?style=for-the-badge&logo=github&logoColor=DFD0B8" alt="GitHub"></a>
   <a href="https://linkedin.com/in/daffa-pradana-44842a344"><img src="https://img.shields.io/badge/LinkedIn-222831?style=for-the-badge&logo=linkedin&logoColor=DFD0B8" alt="LinkedIn"></a>
   <a href="https://discord.gg/neoleo_"><img src="https://img.shields.io/badge/Discord-222831?style=for-the-badge&logo=discord&logoColor=DFD0B8" alt="Discord"></a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=DFD0B8&center=true&vCenter=true&width=600&lines=Backend+Developer;Game+Developer;UI%2FUX+Designer;Fullstack+Learner" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
