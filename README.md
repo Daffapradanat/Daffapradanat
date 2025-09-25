@@ -46,7 +46,7 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daffapradanat&show_icons=true&theme=dark&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=393E46" alt="Daffa's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daffapradanat&show_icons=true&theme=dark&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=FEF3E2" alt="Daffa's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&theme=dark&hide_border=true&bg_color=222831&title_color=DFD0B8&text_color=393E46" alt="Daffa's Top Languages"/>
 </p>
 
