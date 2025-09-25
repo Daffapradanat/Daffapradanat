@@ -47,11 +47,11 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daffapradanat&show_icons=true&theme=dark&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=FEF3E2" alt="Daffa's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&theme=dark&hide_border=true&bg_color=222831&title_color=DFD0B8&text_color=393E46" alt="Daffa's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffapradanat&layout=compact&theme=dark&hide_border=true&bg_color=222831&title_color=DFD0B8&text_color=FEF3E2" alt="Daffa's Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daffapradanat&theme=dark&hide_border=true&background=222831&ring=DFD0B8&fire=948979&currStreakLabel=DFD0B8&sideLabels=393E46&dates=393E46" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daffapradanat&theme=dark&hide_border=true&background=222831&ring=DFD0B8&fire=948979&currStreakLabel=DFD0B8&sideLabels=FEF3E2&dates=FEF3E2" alt="GitHub Streak"/>
 </p>
 
 ## 🏆 GitHub Trophies
