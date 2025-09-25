@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Daffapradanat&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Daffapradanat&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
 </p>
 
 ## 🚀 About Me
