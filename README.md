@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=DFD0B8&center=true&vCenter=true&width=600&lines=Backend+Developer;Game+Developer;UI%2FUX+Designer;Fullstack+Learner" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Daffapradanat&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
 </p>
 
 ## 🚀 About Me
