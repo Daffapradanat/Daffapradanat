@@ -61,7 +61,7 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffapradanat&bg_color=222831&color=393E46&line=948979&point=DFD0B8&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffapradanat&bg_color=222831&color=FEF3E2&line=948979&point=DFD0B8&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ## 🎯 Current Focus
