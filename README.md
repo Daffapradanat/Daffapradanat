@@ -51,7 +51,7 @@ Sometimes, the most outrageous ideas lead to groundbreaking innovations. Let's b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Daffapradanat&theme=dark&hide_border=true&background=222831&ring=DFD0B8&fire=948979&currStreakLabel=DFD0B8&sideLabels=FEF3E2&dates=FEF3E2" alt="GitHub Streak"/>
+  <img src="https://najmajmal-streak.vercel.app/?user=Daffapradanat&theme=dark&hide_border=true&background=222831&ring=DFD0B8&fire=948979&currStreakLabel=DFD0B8&sideLabels=FEF3E2&dates=FEF3E2" alt="GitHub Streak"/>
 </p>
 
 ## 🏆 GitHub Trophies
