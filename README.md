@@ -6,9 +6,9 @@
   <a href="https://discord.gg/neoleo_"><img src="https://img.shields.io/badge/Discord-222831?style=for-the-badge&logo=discord&logoColor=DFD0B8" alt="Discord"></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daffapradanat&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Daffapradanat&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
+</a>
 
 ## 🚀 About Me
 
